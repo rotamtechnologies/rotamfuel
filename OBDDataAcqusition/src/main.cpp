@@ -2,7 +2,7 @@
 
 // Copyright (c) Sandeep Mistry. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
-//Prueba Rotam
+//Prueba Rotam Technologies
 
 #include <CAN.h> // the OBD2 library depends on the CAN library
 #include <OBD2.h>
